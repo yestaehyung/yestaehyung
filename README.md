@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/github/followers/dalchong2?style=social"/></a>&nbsp
+<img src="https://img.shields.io/github/followers/dalchong2?style=social"/></a>
 
 
 
