@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/github/followers/dalchong2?style=social"/></a>
+<h1>어 이게 </h1>
 
+<p>
+  <img src="https://img.shields.io/github/followers/dalchong2?style=social"/></a>
+</p>
 
 
 <!--
