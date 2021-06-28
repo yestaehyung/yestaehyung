@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h1>어 이게 </h1>
 
-<p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/dalchong2?style=social"/></a>
 </p>
 
