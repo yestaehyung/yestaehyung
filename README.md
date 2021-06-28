@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/github/followers/dalchong2?style=social"/></a>&nbsp
+
+
+
 <!--
 **dalchong2/dalchong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
