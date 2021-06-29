@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=taehyungnoh&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=TaehyungNoh&fontSize=70&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -13,9 +13,11 @@
 </p>
 
 
-### 🚀status
+
 
 <p align="center">
+    ### 🚀status
+  <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=dalchong2&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalchong2&layout=compact" height=160>
 </p>
