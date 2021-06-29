@@ -13,6 +13,13 @@
 </p>
 
 
+### 🚀status
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dalchong2&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalchong2&layout=compact" height=160>
+</p>
+
 <!--
 **dalchong2/dalchong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
