@@ -20,6 +20,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalchong2&layout=compact" height=160>
 </p>
 
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 **dalchong2/dalchong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
