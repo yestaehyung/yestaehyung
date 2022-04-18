@@ -16,8 +16,8 @@
 <h3 align="center"> 🚀status🚀</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dalchong2&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalchong2&layout=compact" height=160>
+    <img src="https://github-readme-stats.vercel.app/api?username=noothxee&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact" height=160>
 </p>
 
 
