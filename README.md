@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Taehyung%20Noh&fontSize=50&animation=twinkling)
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=503ee5&text=Human%20Centered%20AI&height=10&fontSize=40&desc=AI%20for%20supporting%20Decision%20making&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=503ee5&text=Human%20Centered%20AI&height=100&fontSize=40&desc=AI%20for%20supporting%20Decision%20making&descAlignY=75&descAlign=60)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
