@@ -3,6 +3,9 @@
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Human_Centered_AI%20%20&fontAlign=30&fontSize=50)
 
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Human%20Centered%20AI&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
