@@ -18,7 +18,7 @@
 
 <h3> 🚀status🚀</h3>
 
-[![noothxee's github stats](https://github-readme-stats.vercel.app/api?username=noothxee&theme=algolia)](https://github.com/noothxee)
+[![noothxee's github stats](https://github-readme-stats.vercel.app/api?username=noothxee)](https://github.com/noothxee)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact&theme=algolia)
 
 <!-- <p align="center">
