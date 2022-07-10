@@ -21,8 +21,6 @@
 [![noothxee's github stats](https://github-readme-stats.vercel.app/api?username=noothxee&theme=algolia)](https://github.com/noothxee)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact&theme=algolia)
 
-![](https://raw.githubusercontent.com/noothxee/noothxee/output/github-contribution-grid-snake.svg)
-
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=noothxee&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact" height=160>
