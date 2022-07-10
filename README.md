@@ -4,7 +4,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=503ee5&text=Human%20Centered%20AI&height=100&fontSize=40&desc=AI%20for%20supporting%20Decision%20making&descAlignY=75&descAlign=60)
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
   <img align="center" src="https://img.shields.io/github/followers/noothxee?style=for-the-badge&logo=appveyor"/></a>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat-square&logo=Vue&logoColor=white"/></a>&nbsp 
 </p>
-
+-->
 
 <h3 align="center"> 🚀status🚀</h3>
 
