@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=TaehyungNoh&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Taehyung%20Noh&fontSize=70&animation=twinkling)
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Human%20Centered%20AI&height=150&fontSize=60&desc=AI%20for%20supporting%20Decision%20making&descAlignY=75&descAlign=60)
 
