@@ -16,6 +16,14 @@
 </p>
 -->
 
+## Tech Stack
+
+
+[![noothxee's github stats](https://github-readme-stats.vercel.app/api?username=noothxee&theme=algolia)](https://github.com/noothxee)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact&theme=algolia)
+
+![](https://raw.githubusercontent.com/noothxee/noothxee/output/github-contribution-grid-snake.svg)
+
 <h3 align="center"> 🚀status🚀</h3>
 
 <p align="center">
