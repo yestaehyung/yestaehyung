@@ -28,8 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact" height=160>
 </p> -->
 
-![](https://raw.githubusercontent.com/noothxee/noothxee/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/noothxee/noothxee/blob/output/github-contribution-grid-snake.svg)
 <!--
 **dalchong2/dalchong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
