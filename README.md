@@ -7,7 +7,7 @@
 <!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/followers/noothxee?style=for-the-badge&logo=appveyor"/></a>
+  <img align="center" src="https://img.shields.io/github/followers/yestaehyung?style=for-the-badge&logo=appveyor"/></a>
   <br><br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -18,15 +18,15 @@
 
 <h3> 🚀status🚀</h3>
 
-[![noothxee's github stats](https://github-readme-stats.vercel.app/api?username=noothxee)](https://github.com/noothxee)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact)
+[![yestaehyung's github stats](https://github-readme-stats.vercel.app/api?username=yestaehyung)](https://github.com/yestaehyung)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact)
 
 <!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=noothxee&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noothxee&layout=compact" height=160>
+    <img src="https://github-readme-stats.vercel.app/api?username=yestaehyung&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact" height=160>
 </p> -->
 
-![snake gif](https://github.com/noothxee/noothxee/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yestaehyung/yestaehyung/blob/output/github-contribution-grid-snake.svg)
 <!--
 **dalchong2/dalchong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
