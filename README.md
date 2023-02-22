@@ -3,8 +3,11 @@
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=503ee5&text=Human%20Centered%20AI&height=120&fontSize=40&desc=AI%20for%20supporting%20Decision%20making&descAlignY=75&descAlign=60) -->
 
-### 🤝 Nice way to meet me 🤝
-
+### 🤝 Nice way to meet me 
+<p>
+  <a href="https://github.com/yestaehyung/Paper_review" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  
+</p>
 ### 💪 Skills
 #### Platforms & Languages
 <p >
