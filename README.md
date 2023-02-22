@@ -19,7 +19,7 @@
 <h3> 🚀status🚀</h3>
 
 [![yestaehyung's github stats](https://github-readme-stats.vercel.app/api?username=yestaehyung)](https://github.com/yestaehyung)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact) -->
 
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yestaehyung&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
