@@ -5,9 +5,16 @@
 
 ### 🤝 Nice way to meet me 
 <p>
-  <a href="https://github.com/yestaehyung/Paper_review" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  
+  <a href="https://github.com/yestaehyung/Paper_review" target="_blank"><img src="https://img.shields.io/badge/Tech_Page-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
+<!-- 
+<p>
+  👋&nbsp; Hi there! I'm interested in <b> developer</b> skilled in API, WEB, and APP.🚀<br/>
+  I have experience 7 years of Android development and 2 years of iOS development.<br/>
+</p> -->
+
+
+
 ### 💪 Skills
 #### Platforms & Languages
 <p >
