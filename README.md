@@ -1,8 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Taehyung%20Noh&fontSize=40&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Taehyung%20Noh&fontSize=40&animation=twinkling) -->
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=503ee5&text=Human%20Centered%20AI&height=120&fontSize=40&desc=AI%20for%20supporting%20Decision%20making&descAlignY=75&descAlign=60) -->
 
+### 🤝 Nice way to meet me 🤝
 
 ### 💪 Skills
 #### Platforms & Languages
