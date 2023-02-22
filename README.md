@@ -5,7 +5,7 @@
 
 ### 🤝 Nice way to meet me 
 <p>
-  <a href="https://github.com/yestaehyung/Paper_review" target="_blank"><img src="https://img.shields.io/badge/Tech_Page-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://github.com/yestaehyung/Paper_review" target="_blank"><img src="https://img.shields.io/badge/Paper_Review-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
 <!-- 
 <p>
