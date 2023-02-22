@@ -4,8 +4,8 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=503ee5&text=Human%20Centered%20AI&height=120&fontSize=40&desc=AI%20for%20supporting%20Decision%20making&descAlignY=75&descAlign=60)
 
 
-<h3 >🛠 Tech Stack 🛠</h3>
-
+### 💪 Skills
+#### Platforms & Languages
 <p >
 <!--   <img align="center" src="https://img.shields.io/github/followers/yestaehyung?style=for-the-badge&logo=appveyor"/></a> -->
 <!--   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp   -->
