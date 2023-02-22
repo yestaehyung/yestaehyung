@@ -9,9 +9,9 @@
 <p >
 <!--   <img align="center" src="https://img.shields.io/github/followers/yestaehyung?style=for-the-badge&logo=appveyor"/></a> -->
 <!--   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp   -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=Flask&logoColor=black"/>
 <!--   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>&nbsp  -->
 </p>
 
