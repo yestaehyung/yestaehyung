@@ -5,7 +5,7 @@
 
 ### 🤝 Nice way to meet me 
 <p>
-  <a href="https://yestaehyung.github.io/" target="_blank"><img src="https://img.shields.io/badge/Personal_Page-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://taehyungnoh.com/" target="_blank"><img src="https://img.shields.io/badge/Personal_Page-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
 <!-- 
 <p>
