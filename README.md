@@ -45,15 +45,22 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-<h3> 🚀status🚀</h3>
+<h3>🚀 Status 🚀</h3>
 
-[![yestaehyung's github stats](https://github-readme-stats.vercel.app/api?username=yestaehyung)](https://github.com/yestaehyung)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact) -->
+<p align="center">
+  <a href="https://github.com/yestaehyung">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yestaehyung&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" />
+  </a>
+  <a href="https://github.com/yestaehyung">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact&langs_count=8&hide_border=true" />
+  </a>
+</p>
 
-<!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yestaehyung&show_icons=true&theme=radical&bg_color=FFFFFF&text_color=000000&icon_color=C71585" height=160>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact" height=160>
-</p> -->
+<p align="center">
+  <a href="https://github.com/yestaehyung">
+    <img src="https://streak-stats.demolab.com/?user=yestaehyung&hide_border=true" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yestaehyung/yestaehyung/output/github-snake-dark.svg" />
