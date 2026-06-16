@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/yestaehyung">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yestaehyung&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yestaehyung&show_icons=true&rank_icon=github&hide_border=true" />
   </a>
   <a href="https://github.com/yestaehyung">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yestaehyung&layout=compact&langs_count=8&hide_border=true" />
